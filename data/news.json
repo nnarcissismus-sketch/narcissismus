@@ -14,10 +14,17 @@
     "new": false
   },
   {
-    "date": "2026-07-06",
+    "date": "2026-07.06",
     "title": "Album is almost done",
     "text": "Only vocals are missing in one song, and autro",
     "image": "",
-    "new": true
+    "new": false
+  }
+  {
+    "date": "2026-07.09",
+    "title": "Album is released on Bandcamp and on the website.",
+    "text": "",
+    "image": "",
+    "new": false
   }
 ]
